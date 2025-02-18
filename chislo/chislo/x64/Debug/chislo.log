@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\pupil.F245-LAB\source\repos\chislo\main.c(11,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  chislo.vcxproj -> C:\Users\pupil.F245-LAB\source\repos\chislo\x64\Debug\chislo.exe
